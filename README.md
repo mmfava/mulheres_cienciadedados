@@ -6,6 +6,7 @@ O mundo moderno foi feito por homens e para homens, não sendo novidade a carên
 Times de cientistas de dados sem representatividade podem resultar em análises enviesadas, partindo da visão de um único grupo social. Imagine times formado somente por homens cis para analisar dados de violência de gênero, ou dados relativos à gravidez na adolescência, ou sobre o uso de pílulas anticoncepcionais, ou sobre as vagas de emprego no mercado de trabalho, ou sobre empréstimos bancários, e assim por diante. Com certeza as análises careceriam de vivência e até mesmo interesse sobre os temas. É por isso que a CD precisa de mulheres e outras minorias. 
 
 Pensando nisso, criei esse repositório com o intuito de divulgar mulheres que trabalham com a CD. 
+**TODAS** as mulheres são bem-vindas! 
 
 A ideia é disponibilizar nomes para vagas de emprego, eventos, cursos e afins. 
 
@@ -27,13 +28,17 @@ Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX.
 \**LinkedIn:**  http//xxx.linkedin.com.br <br />
 \**Outras redes:** http//outrasredes.com.br <br />
 
-## Lista:
+## Colaboradores
+Se mais alguém quiser ajudar a manter o projeto, entre em contato com a @mmfava. 
+
+## Lista de cientistas de dados brasileiras!:
 
 ### Marília Melo Favalesso
 Sou técnica ambiental (CEEP), bióloga (UFPR) mestre em conservação e manejo de recursos naturais (UNIOESTE) e estou no último ano do doutorado em ecologia (Universidad de
-Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Fundei e ministro aulas no Grupo de Estudos em Ciência de Dados (GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", comecei a escrever textos sobre análise de dados, além de outras atividades sem fins lucrativos. <br />
+Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Sou co-fundado e ministro aulas no [Grupo de Estudos em Ciência de Dados (GECD)](https://github.com/gecdfoz/GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", [comecei a escrever textos sobre análise de dados](https://medium.com/@mmfava), além de outras atividades sem fins lucrativos. <br />
 
 **E-mail:** mariliabioufpr@gmail.com <br />
+**GitHub**: <https://github.com/mmfava> <br />
 **LinkedIn:** <https://www.linkedin.com/in/mar%C3%ADlia-favalesso-234546199/> <br />
 **Outras redes:** <http://https://linktr.ee/mmfava/>
 
