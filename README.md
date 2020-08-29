@@ -35,7 +35,7 @@ Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX.
 
 ### Marília Melo Favalesso
 Sou técnica ambiental (CEEP), bióloga (UFPR) mestre em conservação e manejo de recursos naturais (UNIOESTE) e estou no último ano do doutorado em ecologia (Universidad de
-Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Sou co-fundado e ministro aulas no [Grupo de Estudos em Ciência de Dados (GECD)](https://github.com/gecdfoz/GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", [comecei a escrever textos sobre análise de dados](https://medium.com/@mmfava), além de outras atividades sem fins lucrativos. <br />
+Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Sou co-fundadora e ministro aulas no [Grupo de Estudos em Ciência de Dados (GECD)](https://github.com/gecdfoz/GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", [comecei a escrever textos sobre análise de dados](https://medium.com/@mmfava), além de outras atividades sem fins lucrativos. <br />
 
 **Atuação nas regiões da triplice fronteira (Brasil, Argentina e Paraguay).** <br />
 **E-mail:** mariliabioufpr@gmail.com <br />
