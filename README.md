@@ -31,9 +31,6 @@ Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX.
 \**LinkedIn:**  http//xxx.linkedin.com.br <br />
 \**Outras redes:** http//outrasredes.com.br <br />
 
-## Colaborador@s
-Se mais alguém quiser ajudar a manter o projeto, entre em contato com a @mmfava. 
-
 ## Lista de cientistas de dados brasileiras!:
 
 ### Marília Melo Favalesso
@@ -46,7 +43,8 @@ Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e t
 **LinkedIn:** <https://www.linkedin.com/in/mar%C3%ADlia-favalesso-234546199/> <br />
 **Outras redes:** <http://https://linktr.ee/mmfava/>
 
-
+## Colaborador@s
+Se mais alguém quiser ajudar a manter o projeto, entre em contato com a @mmfava. 
 
 
 
