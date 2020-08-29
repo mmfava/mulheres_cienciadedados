@@ -1,4 +1,6 @@
-# Mulheres na Ciência de Dados! 
+# Mulheres e dados!
+
+São bem-vindas **todas** as mulheres que trabalham como analistas de dados, cientistas de dados, administradoras de banco de dados, com aprendizado de maquina, aprendizado profundo, com bioestatística, com estatística, etc etc. 
 
 ## Background
 Não é novidade a carência de mulheres no ambiente tecnológico. Nos EUA, apenas 26% dos empregos em Ciência de Dados (CD) são ocupados por mulheres. Se olharmos as lideranças femininas no setor, o resultado é mais desesperador. 
