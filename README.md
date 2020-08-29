@@ -17,7 +17,7 @@ Se você já tem uma familiaridade com o GitHub, você pode abrir o seu próprio
 
 ### Incluir as informações pessoais
 
-No tópico [**Listas**](https://github.com/mmfava/mulheres_cienciadedados/blob/master/README.md#lista), incluir o seu **nome completo** antecedido de três hashtags (###), sua **bio** resumida, seu **endereço de e-mail profissional** (opicional) e suas **redes sociais**. Inclua também a sua cidade de residência, seguida pelo estado e país. <br />
+No tópico [**Lista de cientistas de dados brasileiras!**](https://github.com/mmfava/mulheres_cienciadedados/blob/master/README.md#lista), incluir o seu **nome completo** antecedido de três hashtags (###), sua **bio** resumida, seu **endereço de e-mail profissional** (opicional) e suas **redes sociais**. Inclua também a sua cidade de residência, seguida pelo estado e país. <br />
 
 Os nomes precisam estar em ordem alfabetica!
 
@@ -31,7 +31,7 @@ Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX.
 \**LinkedIn:**  http//xxx.linkedin.com.br <br />
 \**Outras redes:** http//outrasredes.com.br <br />
 
-## Lista de cientistas de dados brasileiras!:
+## Lista de cientistas de dados brasileiras!
 
 ### Marília Melo Favalesso
 Sou técnica ambiental (CEEP), bióloga (UFPR) mestre em conservação e manejo de recursos naturais (UNIOESTE) e estou no último ano do doutorado em ecologia (Universidad de
