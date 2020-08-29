@@ -10,6 +10,22 @@ Pensando nisso, criei esse repositório com o intuito de divulgar mulheres que t
 A ideia é disponibilizar nomes para vagas de emprego, eventos, cursos e afins. 
 
 ## Como participar?
+Se você já tem uma familiaridade com o GitHub você pode abrir o seu próprio Pull Request com as suas informações pessoais. Caso você desconheça a plataforma, é só criar uma issue ([clique aqui](https://github.com/mmfava/mulheres_cienciadedados/issues/new)) com as suas informações que o mais breve possível eu irei incluir elas aqui no repo. 
+
+### Incluir as informações pessoais
+No tópico **Listas**, incluir o seu **nome completo** antecedido de três hashtags (###), sua **bio** resumida, seu **endereço de e-mail profissional** (opicional) e suas **redes sociais**. 
+
+**Por exemplo:**
+
+### Marília Melo Favalesso
+Sou técnica ambiental (CEEP), bióloga (UFPR) mestre em conservação e manejo de recursos naturais (UNIOESTE) e estou no último ano do doutorado em ecologia (Universidad de
+Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Fundei e ministro aulas no Grupo de Estudos em Ciência de Dados (GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", comecei a escrever textos sobre análise de dados, além de outras atividades sem fins lucrativos. 
+
+**E-mail:** mariliabioufpr@gmail.com
+**LinkedIn:** <https://www.linkedin.com/in/mar%C3%ADlia-favalesso-234546199/>
+
+
+
 
 
  
