@@ -17,14 +17,12 @@ No tópico **Listas**, incluir o seu **nome completo** antecedido de três hasht
 
 **Por exemplo:**
 
+\### SEU NOME <br />
+Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX. Possuo projetos de divulgação XXXXX. <br />
 
-\### Marília Melo Favalesso <br />
-Sou técnica ambiental (CEEP), bióloga (UFPR) mestre em conservação e manejo de recursos naturais (UNIOESTE) e estou no último ano do doutorado em ecologia (Universidad de
-Buenos Aires, Argentina). Possuo conhecimento avançado em análise de dados e trabalho com as linguagens R e Python. Ademais, sei trabalhar com os softwares ArcGis, Qgis, CorelDraw, Inkscape, todos os programas do pacote office, e estou aprendendo o Power Bi. Fundei e ministro aulas no Grupo de Estudos em Ciência de Dados (GECD) de Foz do Iguaçu, criei um projeto de divulgação cientifica open-source chamado "Ciência na feira", comecei a escrever textos sobre análise de dados, além de outras atividades sem fins lucrativos. <br />
-
-\**E-mail:** mariliabioufpr@gmail.com <br />
-\**LinkedIn:** <https://www.linkedin.com/in/mar%C3%ADlia-favalesso-234546199/> <br />
-\**Outras redes:** <http://https://linktr.ee/mmfava/> <br />
+\**E-mail:** XXXX@XXXX.com <br />
+\**LinkedIn:**  http//xxx.linkedin.com.br <br />
+\**Outras redes:** http//outrasredes.com.br <br />
 
 
 
