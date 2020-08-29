@@ -28,7 +28,7 @@ Sou formada em XXXX, com pós-graduação em XXX. Trabalho para a empresa XXXXX.
 \**LinkedIn:**  http//xxx.linkedin.com.br <br />
 \**Outras redes:** http//outrasredes.com.br <br />
 
-## Colaboradores
+## Colaborador@s
 Se mais alguém quiser ajudar a manter o projeto, entre em contato com a @mmfava. 
 
 ## Lista de cientistas de dados brasileiras!:
