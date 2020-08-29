@@ -5,13 +5,13 @@ O mundo moderno foi feito por homens e para homens, não sendo novidade a carên
 
 Times de cientistas de dados sem representatividade podem resultar em análises enviesadas, partindo da visão de um único grupo social. Imagine times formado somente por homens cis para analisar dados de violência de gênero, ou dados relativos à gravidez na adolescência, ou sobre o uso de pílulas anticoncepcionais, ou sobre as vagas de emprego no mercado de trabalho, ou sobre empréstimos bancários, e assim por diante. Com certeza as análises careceriam de vivência e até mesmo interesse sobre os temas. É por isso que a CD precisa de mulheres e outras minorias. 
 
-Pensando nisso, criei esse repositório com o intuito de divulgar mulheres que trabalham com a CD. 
+Pensando nisso, criamos esse repositório com o intuito de divulgar mulheres que trabalham com a CD. 
 **TODAS** as mulheres são bem-vindas! 
 
 A ideia é disponibilizar nomes para vagas de emprego, eventos, cursos e afins. 
 
 ## Como participar?
-Se você já tem uma familiaridade com o GitHub você pode abrir o seu próprio Pull Request com as suas informações pessoais. Caso você desconheça a plataforma, é só criar uma issue ([clique aqui](https://github.com/mmfava/mulheres_cienciadedados/issues/new)) com as suas informações que o mais breve possível eu irei incluir elas aqui no repo. 
+Se você já tem uma familiaridade com o GitHub, você pode abrir o seu próprio Pull Request com as suas informações pessoais. Caso você desconheça a plataforma, é só criar uma issue ([clique aqui](https://github.com/mmfava/mulheres_cienciadedados/issues/new)) com as suas informações pessoais que iremos inclui-las o mais breve possível. 
 
 ### Incluir as informações pessoais
 
