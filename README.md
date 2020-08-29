@@ -17,7 +17,7 @@ Se você já tem uma familiaridade com o GitHub, você pode abrir o seu próprio
 
 ### Incluir as informações pessoais
 
-No tópico **"Lista"**](https://github.com/mmfava/mulheres_cienciadedados/blob/master/README.md#lista) incluir o seu **nome completo** antecedido de três hashtags (###), sua **bio** resumida, seu **endereço de e-mail profissional** (opicional) e suas **redes sociais**. Inclua também a sua cidade de residência, seguida pelo estado e país. <br />
+No tópico [**"Lista"**](https://github.com/mmfava/mulheres_cienciadedados/blob/master/README.md#lista) incluir o seu **nome completo** antecedido de três hashtags (###), sua **bio** resumida, seu **endereço de e-mail profissional** (opicional) e suas **redes sociais**. Inclua também a sua cidade de residência, seguida pelo estado e país. <br />
 
 Os nomes precisam estar em ordem alfabetica!
 
